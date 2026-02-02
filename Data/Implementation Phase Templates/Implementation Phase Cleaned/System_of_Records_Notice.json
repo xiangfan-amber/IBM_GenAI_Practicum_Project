@@ -1,0 +1,119 @@
+{
+    "document_title": "EPLC_System_of_Records_Notice_Template",
+    "source_filename": "EPLC_System_of_Records_Notice_Template.doc",
+    "sections": [
+      {
+        "number": "1",
+        "title": "System Name",
+        "content": "Identifies the official name and assigned number of the system that collects and maintains personally identifiable information."
+      },
+      {
+        "number": "2",
+        "title": "Security Classification",
+        "content": "Specifies the system’s security classification level, typically marked as 'None' for HHS systems not involving national security."
+      },
+      {
+        "number": "3",
+        "title": "System Location",
+        "content": "Lists the physical or network locations where system records are stored and maintained."
+      },
+      {
+        "number": "4",
+        "title": "Categories of Individuals Covered by the System",
+        "content": "Describes the groups of individuals whose information is collected and maintained in the system."
+      },
+      {
+        "number": "5",
+        "title": "Categories of Records in the System",
+        "content": "Summarizes the types of personal or identifying data stored within the system, such as contact or health information."
+      },
+      {
+        "number": "6",
+        "title": "Authority for Maintenance of the System",
+        "content": "Cites the legal authority, statute, or executive order that authorizes the collection and maintenance of the records."
+      },
+      {
+        "number": "7",
+        "title": "Purpose(s)",
+        "content": "Defines the purpose of the system and explains how collected information supports internal departmental functions."
+      },
+      {
+        "number": "8",
+        "title": "Routine Uses of Records Maintained in the System",
+        "content": "Outlines authorized external disclosures, identifying recipients, types of information shared, and their intended use."
+      },
+      {
+        "number": "9",
+        "title": "Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records",
+        "content": null,
+        "subsections": [
+          {
+            "number": "9.1",
+            "title": "Storage",
+            "content": "Explains the formats or media used to store system records, such as databases, files, or magnetic storage."
+          },
+          {
+            "number": "9.2",
+            "title": "Retrievability",
+            "content": "Describes how records are retrieved, for example by name, Social Security number, or unique identifier."
+          },
+          {
+            "number": "9.3",
+            "title": "Safeguards",
+            "content": "Summarizes physical and technical measures that protect data from unauthorized access or disclosure."
+          },
+          {
+            "number": "9.4",
+            "title": "Retention and Disposal",
+            "content": "Specifies how long records are retained and outlines disposal methods in accordance with federal record policies."
+          },
+          {
+            "number": "9.5",
+            "title": "System Manager(s) and Address",
+            "content": "Identifies the office or official responsible for managing the system’s policies and practices."
+          },
+          {
+            "number": "9.6",
+            "title": "Notification Procedure",
+            "content": "Describes how individuals can inquire whether their records are included in the system."
+          },
+          {
+            "number": "9.7",
+            "title": "Record Access Procedures",
+            "content": "Explains how individuals can request access to their records and verify their identity for retrieval."
+          },
+          {
+            "number": "9.8",
+            "title": "Contesting Record Procedures",
+            "content": "Outlines how individuals can request corrections or deletions of inaccurate or outdated records."
+          },
+          {
+            "number": "9.9",
+            "title": "Record Source Categories",
+            "content": "Identifies where records originate, including internal sources, individuals, or external agencies."
+          },
+          {
+            "number": "9.10",
+            "title": "Systems Exempted from Certain Provisions of the Act",
+            "content": "Specifies any Privacy Act exemptions and describes which types of records are exempt from access."
+          }
+        ]
+      },
+      {
+        "number": "A",
+        "title": "Appendix A: System of Records Approval",
+        "content": "Documents the approval and signatures of responsible officials confirming review and acceptance of the system of records notice."
+      },
+      {
+        "number": "B",
+        "title": "Appendix B: References",
+        "content": "Lists all referenced documents, versions, descriptions, and storage locations related to the system notice."
+      },
+      {
+        "number": "C",
+        "title": "Appendix C: Key Terms",
+        "content": "Defines key terms and acronyms used in the System of Records Notice."
+      }
+    ]
+  }
+  

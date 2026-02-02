@@ -1,0 +1,111 @@
+{
+    "document_title": "EPLC_Service_Level_Agreement_Memorandum_of_Understanding_Template",
+    "source_filename": "EPLC_SLA_MOU_Template.doc",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Introduction",
+        "content": null,
+        "subsections": [
+          {
+            "number": "1.1",
+            "title": "Purpose of Service Level Agreement/Memorandum of Understanding",
+            "content": "Defines the overall purpose and intent of the agreement between the involved parties."
+          },
+          {
+            "number": "1.2",
+            "title": "Scope",
+            "content": "Describes the scope and boundaries of the agreement, including applicable systems or services."
+          },
+          {
+            "number": "1.3",
+            "title": "Background",
+            "content": "Provides contextual information about the IT system or services covered by the agreement."
+          },
+          {
+            "number": "1.4",
+            "title": "Audience",
+            "content": "Identifies the intended readers and stakeholders participating in this agreement."
+          },
+          {
+            "number": "1.5",
+            "title": "Assumptions",
+            "content": "Outlines any key assumptions underlying the agreement, such as dependencies or operating conditions."
+          },
+          {
+            "number": "1.6",
+            "title": "Roles and Responsibilities",
+            "content": "Lists the specific roles involved and their corresponding duties under the agreement."
+          },
+          {
+            "number": "1.7",
+            "title": "Contacts",
+            "content": "Provides contact information for all primary stakeholders and parties to the agreement."
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Service Details",
+        "content": null,
+        "subsections": [
+          {
+            "number": "2.1",
+            "title": "Requirements",
+            "content": "Summarizes the specific service requirements to be fulfilled under this agreement."
+          },
+          {
+            "number": "2.2",
+            "title": "Service Level Expectations",
+            "content": "Defines measurable service expectations mutually agreed upon by both parties."
+          },
+          {
+            "number": "2.3",
+            "title": "Escalation Actions",
+            "content": "Outlines the steps to be followed in case of service issues or performance failures."
+          },
+          {
+            "number": "2.4",
+            "title": "Service Provider / Service Recipient",
+            "content": "Identifies the service provider and recipient, including contact and role details."
+          },
+          {
+            "number": "2.5",
+            "title": "Service Hours for Problem Resolution",
+            "content": "Specifies service availability and hours allocated for addressing problems or outages."
+          },
+          {
+            "number": "2.6",
+            "title": "Performance Guarantee",
+            "content": "Describes agreed-upon performance metrics, guarantees, and any penalties for noncompliance."
+          },
+          {
+            "number": "2.7",
+            "title": "Agreement Change Process",
+            "content": "Details the procedure for modifying, reviewing, or updating the agreement."
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Agreement Table",
+        "content": "Summarizes service expectations, responsible parties, support hours, escalation actions, and performance guarantees."
+      },
+      {
+        "number": "A",
+        "title": "Appendix A: Service Level Agreement / Memorandum of Understanding Approval",
+        "content": "Records signatures and approvals from both parties confirming review and acceptance of the agreement."
+      },
+      {
+        "number": "B",
+        "title": "Appendix B: References",
+        "content": "Lists supporting documents, versions, descriptions, and locations referenced in the agreement."
+      },
+      {
+        "number": "C",
+        "title": "Appendix C: Key Terms",
+        "content": "Defines key terminology and acronyms relevant to the Service Level Agreement."
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+{
+    "document_title": "EPLC_Physical_Data_Model_Template",
+    "source_filename": "EPLC_Physical_Data_Model_Template.doc",
+    "sections": [
+      {
+        "number": "1",
+        "title": "Introduction",
+        "content": null,
+        "subsections": [
+          {
+            "number": "1.1",
+            "title": "Purpose",
+            "content": "Defines the objective of the Physical Data Model document and how it should support the project’s database design needs."
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "General Overview and Design Guidelines/Approach",
+        "content": "Describes key principles, strategies, and considerations for developing the physical data model from the approved logical data model.",
+        "subsections": [
+          {
+            "number": "2.1",
+            "title": "Assumptions / Constraints / Standards",
+            "content": "Outlines database design standards, technical constraints, and key assumptions guiding model development and implementation."
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Physical Data Model",
+        "content": "Summarizes how the logical model is implemented physically, including tables, fields, data types, constraints, and indexing decisions."
+      },
+      {
+        "number": "A",
+        "title": "Appendix A: Physical Data Model Approval",
+        "content": "Documents the approval process and required signatures verifying that stakeholders have reviewed and accepted the physical data model."
+      },
+      {
+        "number": "B",
+        "title": "Appendix B: References",
+        "content": "Lists supporting documents, version details, and locations of reference materials used in creating the physical data model."
+      },
+      {
+        "number": "C",
+        "title": "Appendix C: Key Terms",
+        "content": "Provides definitions and explanations of technical terms and acronyms relevant to the Physical Data Model."
+      }
+    ]
+  }
+  

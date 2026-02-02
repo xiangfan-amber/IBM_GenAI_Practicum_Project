@@ -1,0 +1,71 @@
+{
+  "document_title": "CDC_UP_Test_Case_Template (Cleaned)",
+  "source_filename": "CDC_UP_Test_Case_Template.doc",
+  "sections": [
+    {
+      "number": "1",
+      "title": "Introduction",
+      "content": "PURPOSE OF THE DOCPROPERTY TITLE \\* MERGEFORMAT TEST CASE DOCUMENT\n[Provide the purpose of the DOCPROPERTY Title \\* MERGEFORMAT Test Case Document. This document should be tailored to fit a particular project’s needs.]\nThe DOCPROPERTY Title \\* MERGEFORMAT Test Case document documents the functional requirements of the test case. The intended audience is the project manager, project team, and testing team. Some portions of this document may on occasion be shared with the client/user and other stakeholder whose input/approval into the testing process is needed.",
+      "subsections": []
+    },
+    {
+      "number": "2",
+      "title": "Test Case Specification",
+      "content": "[Describe the test case to be performed]",
+      "subsections": [
+        {
+          "number": "2.1",
+          "title": "Description",
+          "content": "[Describe the test case and the individuals involved in the testing. Include diagrams depicting the interaction between individuals and the different elements being tested.]"
+        },
+        {
+          "number": "2.1",
+          "title": "Description",
+          "content": "Location\n\n[Provide description of the document]"
+        },
+        {
+          "number": "2.2",
+          "title": "Resources",
+          "content": "[Describe the individuals involved in the testing, their responsibilities, and their association with the test case.]"
+        },
+        {
+          "number": "2.3",
+          "title": "Preconditions",
+          "content": "[Describe the preconditions for the test case. A precondition is the state of the system that must exist before a test case can be performed.]"
+        },
+        {
+          "number": "2.4",
+          "title": "Post Conditions",
+          "content": "[Describe the post conditions for the use case. A post condition is a list of possible states the system can be in immediately after a test case has finished.]"
+        },
+        {
+          "number": "2.5",
+          "title": "Flow of Events",
+          "content": "[Describe the flow of events that would be expected in normal conditions as well as any potential alternate flow of events, and exceptions/errors that may be expected.]"
+        },
+        {
+          "number": "2.6",
+          "title": "Inclusion/Exclusion Points",
+          "content": "[Describe other test cases that may be included or excluded in the act of executing this test case.]"
+        },
+        {
+          "number": "2.7",
+          "title": "Special Requirements",
+          "content": "[Describe any special requirements necessary to perform the test case.]"
+        }
+      ]
+    },
+    {
+      "number": "A",
+      "title": "Appendix A: References",
+      "content": "[Insert the name, version number, description, and physical location of any documents referenced in this document. Add rows to the table as necessary.] \nThe following table summarizes the documents referenced in this document.\nDocument Name and Version",
+      "subsections": []
+    },
+    {
+      "number": "B",
+      "title": "Appendix B: Key Terms",
+      "content": "[Insert terms and definitions used in this document. Add rows to the table as necessary. Follow the link below to for definitions of project management terms and acronyms used in this and other documents.\nhttp://www2.cdc.gov/cdcup/library/other/help.htm\nThe following table provides definitions for terms relevant to this document.\nTerm\nDefinition\n[Insert Term]\n[Provide definition of the term used in this document.]\n[Insert Term]\n[Provide definition of the term used in this document.]\n[Insert Term]\n[Provide definition of the term used in this document.]\n\n SUBJECT \\* MERGEFORMAT \n\n \n[Insert appropriate disclaimer(s)]\n\n[Insert appropriate Disclaimer(s)]",
+      "subsections": []
+    }
+  ]
+}

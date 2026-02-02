@@ -1,0 +1,223 @@
+{
+  "document_title": "EPLC Acquisition Strategy",
+  "source": "EPLC_Acquisition_Strategy_Template.doc",
+  "sections": [
+    {
+      "number": "1.0",
+      "title": "Introduction",
+      "subsections": [
+        {
+          "number": "1.1",
+          "title": "Purpose of Acquisition Strategy",
+          "content": "The overall objective of an Acquisition Strategy is to document and inform project stakeholders about how the acquisitions will be planned, executed, and managed throughout the life of the project. The intended audience of the <Project Name> Acquisition Strategy is the project manager, project team, project sponsor, procurement officer/office, and any senior leaders whose support is needed to carry out acquisition plans."
+        }
+      ]
+    },
+    {
+      "number": "2.0",
+      "title": "Background and Objectives",
+      "subsections": [
+        {
+          "number": "2.1",
+          "title": "Statement of Need",
+          "content": "[Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition...]"
+        },
+        {
+          "number": "2.2",
+          "title": "Applicable Conditions",
+          "content": "[State all significant conditions affecting the acquisition...]"
+        },
+        {
+          "number": "2.3",
+          "title": "Cost",
+          "content": "[Set forth the established cost goals for the acquisition and the rationale supporting them, and discuss related cost concepts such as life-cycle cost, design-to-cost, and should-cost.]"
+        },
+        {
+          "number": "2.4",
+          "title": "Capability or Performance",
+          "content": "[Specify the required capabilities or performance characteristics of the supplies or services being acquired and state how they are related to the need.]"
+        },
+        {
+          "number": "2.5",
+          "title": "Delivery or Performance-Period Requirements",
+          "content": "[Describe the basis for establishing delivery or performance-period requirements, explain any urgency, and justify any concurrency or limited competition.]"
+        },
+        {
+          "number": "2.6",
+          "title": "Trade-Offs",
+          "content": "[Discuss the expected consequences of trade-offs among cost, capability, performance, and schedule goals.]"
+        },
+        {
+          "number": "2.7",
+          "title": "Risks",
+          "content": "[Discuss technical, cost, and schedule risks and the planned mitigation strategies.]"
+        },
+        {
+          "number": "2.8",
+          "title": "Acquisition Streamlining",
+          "content": "[Discuss plans and procedures to encourage industry participation and tailor requirements effectively.]"
+        }
+      ]
+    },
+    {
+      "number": "3.0",
+      "title": "Plan of Action",
+      "content": "Describe the actions necessary to execute this strategy.",
+      "subsections": [
+        {
+          "number": "3.1",
+          "title": "Sources",
+          "content": "[Indicate any prospective sources of supplies or services that can meet the need.]"
+        },
+        {
+          "number": "3.2",
+          "title": "Competition",
+          "content": "[Describe how competition will be sought, promoted, and sustained throughout the acquisition process.]"
+        },
+        {
+          "number": "3.3",
+          "title": "Source-Selection Procedures",
+          "content": "[Discuss timing, evaluation factors, and their relationship to acquisition objectives.]"
+        },
+        {
+          "number": "3.4",
+          "title": "Acquisition Considerations",
+          "content": "[Discuss contract type, use of multiyear contracting, options, clauses, or methods to be used, and rationale.]"
+        },
+        {
+          "number": "3.5",
+          "title": "Budget and Funding",
+          "content": "[Include budget estimates, explain derivation, and discuss fund availability schedule.]"
+        },
+        {
+          "number": "3.6",
+          "title": "Product or Service Descriptions",
+          "content": "[Explain the choice of product or service description types to be used.]"
+        },
+        {
+          "number": "3.7",
+          "title": "Priorities, Allocations, and Allotments",
+          "content": "[If urgency dictates, specify priorities and reasons for them.]"
+        },
+        {
+          "number": "3.8",
+          "title": "Contractor Vs Government Performance",
+          "content": "[Refer to OMB Circular No. A-76.]"
+        },
+        {
+          "number": "3.9",
+          "title": "Management Information Requirements",
+          "content": "[Discuss systems used to monitor contractor’s effort, including Earned Value Management Systems and related reviews.]"
+        },
+        {
+          "number": "3.10",
+          "title": "Make or Buy",
+          "content": "[Discuss any consideration given to make-or-buy programs.]"
+        },
+        {
+          "number": "3.11",
+          "title": "Test and Evaluation",
+          "content": "[Describe contractor and government test programs for each major phase.]"
+        },
+        {
+          "number": "3.12",
+          "title": "Logistics Considerations",
+          "content": "[Include maintenance, servicing, distribution, reliability, maintainability, and quality assurance requirements.]"
+        },
+        {
+          "number": "3.13",
+          "title": "Government-Furnished Property",
+          "content": "[Indicate any Government property to be furnished to contractors and related considerations.]"
+        },
+        {
+          "number": "3.14",
+          "title": "Government-Furnished Information",
+          "content": "[Discuss any Government information such as manuals, drawings, and test data to be provided, and how controlled access will be managed.]"
+        },
+        {
+          "number": "3.15",
+          "title": "Environmental and Energy Conservation Objectives",
+          "content": "[Discuss environmental and energy conservation objectives, environmental assessments, and requirements to include in solicitations.]"
+        },
+        {
+          "number": "3.16",
+          "title": "Security Considerations",
+          "content": "[Discuss how security will be established, maintained, and monitored, including IT security and contractor access requirements.]"
+        },
+        {
+          "number": "3.17",
+          "title": "Contract Administration",
+          "content": "[Describe how each contract will be administered, including inspection and acceptance criteria for service contracts.]"
+        },
+        {
+          "number": "3.18",
+          "title": "Other Considerations",
+          "content": "[Discuss any other relevant topics: standardization, readiness, safety, foreign sales implications, etc.]"
+        },
+        {
+          "number": "3.19",
+          "title": "Acquisition Cycle Milestones",
+          "content": "[Discuss acquisition approval points, milestones, and steps including acquisition-package preparation, solicitation, evaluation, negotiation, and award.]"
+        },
+        {
+          "number": "3.20",
+          "title": "Identification of Participants",
+          "content": "[List individuals participating in preparing this acquisition plan, including contact info.]"
+        }
+      ]
+    },
+    {
+      "number": "A",
+      "title": "Appendix A: Acquisition Strategy Approval",
+      "content": {
+        "Description": "[List the individuals whose signatures are desired. Examples include Business Owner, Project Manager, or other stakeholders. Add more lines as necessary.]"
+      },
+      "signatures": [
+        {
+          "Signature": "",
+          "Date": "",
+          "Print Name": "",
+          "Title": "",
+          "Role": ""
+        },
+        {
+          "Signature": "",
+          "Date": "",
+          "Print Name": "",
+          "Title": "",
+          "Role": ""
+        },
+        {
+          "Signature": "",
+          "Date": "",
+          "Print Name": "",
+          "Title": "",
+          "Role": ""
+        }
+      ]
+    },
+    {
+      "number": "B",
+      "title": "Appendix B: References",
+      "content": "[Insert the name, version number, description, and physical location of any documents referenced in this document.]",
+      "references": [
+        {
+          "Document Name": "<Document Name and Version Number>",
+          "Description": "<Document description>",
+          "Location": "<URL or Network path where document is located>"
+        }
+      ]
+    },
+    {
+      "number": "C",
+      "title": "Appendix C: Key Terms",
+      "content": "The following table provides definitions and explanations for terms and acronyms relevant to the content presented within this document.",
+      "terms": [
+        {
+          "Term": "[Insert Term]",
+          "Definition": "<Provide definition of term and acronyms used in this document.>"
+        }
+      ]
+    }
+  ]
+}

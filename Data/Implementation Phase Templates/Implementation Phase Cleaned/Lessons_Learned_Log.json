@@ -1,0 +1,98 @@
+{
+    "document_title": "Lessons Learned Log",
+    "source_filename": "Lessons Learned Log.xls",
+    "sections": [
+        {
+            "number": "1",
+            "title": "Instructions",
+            "subsections": [
+                {
+                    "title": "Instructions for Completing This Document",
+                    "fields": {
+                        "A": {
+                            "Field": "ID",
+                            "Instruction": "A unique ID number used to identify the lesson learned in the lesson learned log."
+                        },
+                        "B": {
+                            "Field": "Date Identified",
+                            "Instruction": "This column should be populated with the date that the lesson learned was identified."
+                        },
+                        "C": {
+                            "Field": "Entered By",
+                            "Instruction": "This column should be populated with the name of the individual who identified the lesson learned."
+                        },
+                        "D": {
+                            "Field": "Subject",
+                            "Instruction": "This column should be populated with a brief attention-grabbing headline that describes the subject of the lesson learned."
+                        },
+                        "E": {
+                            "Field": "Situation",
+                            "Instruction": "This column should be populated with a detailed description of the situation learned from."
+                        },
+                        "F": {
+                            "Field": "Lesson Learned & Recommendations",
+                            "Instruction": "Provide description and corrective actions. Include recommendations regarding the outcome of the corrective action."
+                        },
+                        "G": {
+                            "Field": "Follow-Up Needed",
+                            "Instruction": "Indicates whether or not additional follow-up is needed."
+                        }
+                    }
+                },
+                {
+                    "title": "Instructions for Changing the Contents of Drop-Down Menus",
+                    "content": [
+                        "Highlight the cell where you wish to change the content of the drop-down menu.",
+                        "From the file menu click 'Data' -> 'Validation' and change the content of the source field."
+                    ]
+                },
+                {
+                    "title": "Instructions for Filtering Data",
+                    "content": [
+                        "Highlight the header of the cell you wish to filter data on.",
+                        "From the file menu click 'Data' -> 'Filter' -> 'Auto Filter'.",
+                        "Then select your filter criteria from the drop down menu that appears on your header cell."
+                    ]
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "title": "Lessons Learned Log Table",
+            "subsections": [
+                {
+                    "title": "Project Information",
+                    "fields": {
+                        "Project Name": "<optional>",
+                        "National Center": "<required>",
+                        "Project Manager Name": "<required>",
+                        "Project Description": "<required>"
+                    }
+                },
+                {
+                    "title": "Lessons Learned Table",
+                    "columns": [
+                        "ID",
+                        "Date Identified",
+                        "Entered By",
+                        "Subject",
+                        "Situation",
+                        "Recommendations & Comments",
+                        "Follow-Up Needed"
+                    ],
+                    "entries": [
+                        {
+                            "ID": "1",
+                            "Date Identified": "01/01/01",
+                            "Entered By": "John Doe",
+                            "Subject": "EXAMPLE: Issue escalation",
+                            "Situation": "EXAMPLE: Issue escalation took too long",
+                            "Recommendations & Comments": "EXAMPLE: Have in place a solid communication plan that outlines the escalation process, the roles & responsibilities of individuals involved in that process, and a required response time.",
+                            "Follow-Up Needed": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

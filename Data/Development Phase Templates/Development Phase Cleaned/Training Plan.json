@@ -1,0 +1,146 @@
+{
+  "document_title": "Training Plan Template (v1.0)",
+  "source_filename": "Training Plan.docx",
+  "sections": [
+    {
+      "number": "1.0",
+      "title": "Introduction",
+      "content": "[This section provides a management summary of the entire plan.]",
+      "subsections": [
+        {
+          "number": "1.1",
+          "title": "Background and Scope",
+          "content": "[This subsection provides a brief description of the project from a management perspective. It identifies the system, its purpose, and its intended users. It also summarizes the Training Plan and its scope.]"
+        },
+        {
+          "number": "1.2",
+          "title": "Points of Contact",
+          "content": "[This subsection provides organization name, title, and contact information for key roles such as Project Manager, Program Manager, QA Manager, Security Manager, and Training Coordinator.]"
+        },
+        {
+          "number": "1.3",
+          "title": "Document Organization",
+          "content": "[Describes how the Training Plan document is organized.]"
+        },
+        {
+          "number": "1.4",
+          "title": "Security and the Privacy Act",
+          "content": "[Provides a brief discussion of system security controls, data protection requirements, and Privacy Act considerations.]"
+        },
+        {
+          "number": "1.5",
+          "title": "Glossary",
+          "content": "[Contains a glossary of all terms and abbreviations used in the plan, or references the OPDIV glossary if applicable.]"
+        }
+      ]
+    },
+    {
+      "number": "2.0",
+      "title": "Instructional Analysis",
+      "content": "",
+      "subsections": [
+        {
+          "number": "2.1",
+          "title": "Needs and Skills Analysis",
+          "content": "[Describes target audiences, their skills, and training needs. May include a task-skill matrix and discuss audience groupings such as headquarters or field offices.]"
+        },
+        {
+          "number": "2.2",
+          "title": "Development Approach",
+          "content": "[Discusses the approach used to develop the course curriculum, including methods, objectives, and topics to be covered.]"
+        },
+        {
+          "number": "2.3",
+          "title": "Issues and Recommendations",
+          "content": "[Lists foreseeable training issues, provides recommendations and identifies constraints or limitations.]"
+        }
+      ]
+    },
+    {
+      "number": "3.0",
+      "title": "Instructional Methods",
+      "content": "",
+      "subsections": [
+        {
+          "number": "3.1",
+          "title": "Training Methodology",
+          "content": "[Describes the training methods, materials, and formats used. Includes course outlines, instructor guides, student materials, and evaluation approaches.]"
+        },
+        {
+          "number": "3.2",
+          "title": "Training Database",
+          "content": "[Identifies and describes the simulated training database, its purpose, and how it will be developed or used during training.]"
+        },
+        {
+          "number": "3.3",
+          "title": "Testing and Evaluation",
+          "content": "[Describes how training effectiveness and student performance will be tested and evaluated. Includes feedback and course evaluation mechanisms.]"
+        }
+      ]
+    },
+    {
+      "number": "4.0",
+      "title": "Training Resources",
+      "content": "",
+      "subsections": [
+        {
+          "number": "4.1",
+          "title": "Course Administration",
+          "content": "[Describes training administration methods — enrollment, tracking, certification, progress reports, and record management.]"
+        },
+        {
+          "number": "4.2",
+          "title": "Resources and Facilities",
+          "content": "[Lists required training resources: classrooms, equipment, materials, and special needs.]"
+        },
+        {
+          "number": "4.3",
+          "title": "Schedules",
+          "content": "[Presents training implementation schedule, milestones, responsible parties, and estimated efforts.]"
+        },
+        {
+          "number": "4.4",
+          "title": "Future Training",
+          "content": "[Discusses periodic updates, retraining, and future improvements in training materials and delivery.]"
+        }
+      ]
+    },
+    {
+      "number": "5.0",
+      "title": "Training Materials List",
+      "content": "",
+      "subsections": [
+        {
+          "number": "5.1",
+          "title": "Purpose and Scope",
+          "content": "This section assists project managers in managing training materials such as seminars, presentations, or tutorials. It emphasizes keeping this as a living document updated throughout the project lifecycle."
+        },
+        {
+          "number": "5.2",
+          "title": "Training Materials List",
+          "content": "[Provides a table detailing training materials, including document name, version, format, date delivered, intended audience, and storage location.]"
+        }
+      ]
+    },
+    {
+      "number": "6.0",
+      "title": "Training Curriculum",
+      "content": "[Describes all training courses and modules, including objectives, duration, audience, prerequisites, resources, and future ownership and maintenance of training materials.]"
+    },
+    {
+      "number": "Appendix A",
+      "title": "Training Plan Approval",
+      "content": "Acknowledgement and approval form for project stakeholders confirming review and acceptance of the Training Plan."
+    },
+    {
+      "number": "Appendix B",
+      "title": "References",
+      "content": "[Lists referenced documents with their name, version, description, and location.]"
+    },
+    {
+      "number": "Appendix C",
+      "title": "Key Terms",
+      "content": "[Provides definitions and explanations for key terms and acronyms relevant to the document.]"
+    }
+  ]
+}
